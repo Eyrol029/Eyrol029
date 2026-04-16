@@ -18,10 +18,16 @@
 
 ⚙️ Technical Skills
 • Programming Languages: Java, C#, JavaScript
+
 • Web Development: Java Spring, Vue.js, HTML, CSS, JavaScript 
+
 • Frameworks & Tools: Tailwind CSS, Unity 
-Database: MySQL 
+
+•Database: MySQL 
+
 • Networking: Cisco Packet Tracer 
+
 • Tools: Git(Basic), AI Assited Development ( Claude for debuging, Optimization, and Development Support) 
+
 • Other Skills: Responsive Web Design, Basic Game Development, Debugging & Troubleshooting
 
