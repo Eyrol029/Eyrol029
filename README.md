@@ -14,7 +14,7 @@
 
 💬Capstone Project – Tating's Birthing Home and Family Clinic System Developing a web-based system to improve daily operations and record management Built using Java Spring, MySQL, Vue.js, and Tailwind CSS Focused on user-friendly design and efficient data handling
 
-🎮 Mobile Game & Simulation Development (Unity) Currently building a mobile game and simulation using Unity and C# Designing gameplay mechanics, UI, and basic game logic Continuously testing and improving performance and user experience
+🎮 Mobile Game & Simulation Development (Unity) - Currently building a mobile game and simulation using Unity and C# Designing gameplay mechanics, UI, and basic game logic Continuously testing and improving performance and user experience
 
 ⚙️ Technical Skills
 
